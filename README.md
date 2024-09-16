@@ -6,5 +6,5 @@
 
 This data here: https://ukrainian-hits.netlify.app/
 
-![Static Badge](https://img.shields.io/badge/Top--3-Ukrainian_hits-green)
+![Static Badge](https://img.shields.io/badge/Top--5-Ukrainian_hits-green)
 
